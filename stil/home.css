@@ -1,0 +1,483 @@
+.header1 {
+    background-color: #555555f6;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    top: 0px;    
+}
+
+.logo {
+    position: absolute;
+width: 44px;
+height: 54px;
+left: 120px;
+top: 9px;
+
+font-family: 'Roboto Mono';
+font-size: 60px;
+line-height: 46px;
+/* or 77% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+
+.logo2 {
+    position: absolute;
+width: 25px;
+height: 37px;
+left: 161px;
+top: 9px;
+
+font-family: 'Roboto Mono';
+font-size: 36px;
+line-height: 46px;
+/* or 128% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.homeheader {
+    position: absolute;
+    left: 1274px;
+    right: 580px;
+    top: 16px;
+    bottom: 0%;
+    
+    font-family: 'Roboto Mono';
+    font-size: 24px;
+    line-height: 40px;
+    /* or 167% */
+    
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+
+}
+
+.projectsheader {
+   
+    position: absolute;
+left: 1376px;
+right: 455px;
+top: 16px;
+bottom: 0%;
+
+/* sub1 */
+
+font-family: 'Roboto Mono';
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+text-align: center;
+text-transform: capitalize;
+text-decoration-line: none;
+
+color: #FFFFFF;
+
+}
+
+.projectsheader:hover {
+    color: #0087FF ;
+}
+
+
+.contactheader {
+    position: absolute;
+left: 1501px;
+right: 326px;
+top: 16px;
+bottom: 0%;
+
+/* sub1 */
+
+font-family: 'Roboto Mono';
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+text-align: center;
+text-transform: capitalize;
+text-decoration-line: none;
+
+color: #FFFFFF;
+
+}
+.contactheader:hover {
+    color: #0087FF ;
+}
+
+.kopce {
+    background-color: #0088ffe2; 
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    left: 1620px;
+    top: 11px;
+    position: absolute;
+}
+.kopce:hover {
+    background-color: #0079e3; 
+    color: rgb(255, 255, 255);
+}
+
+.intro {
+    position: absolute;
+width: 100%;
+height: 750px;
+left: 0px;
+top: 70px;
+
+background: url(.jpg), #D9D9D9;
+
+}
+
+.ime {
+    
+position: absolute;
+width: 557px;
+height: 70px;
+left: 120px;
+top: 430px;
+
+font-family: 'Roboto Mono';
+font-size: 50px;
+line-height: 46px;
+/* or 92% */
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+
+.prof {
+    position: absolute;
+width: 350px;
+height: 37px;
+left: 120px;
+top: 480px;
+
+/* h2 */
+
+font-family: 'Nerko One';
+font-size: 46px;
+line-height: 46px;
+/* or 128% */
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.about{
+    position: absolute;
+width: 250px;
+height: 46px;
+left: 120px;
+top: 1189px;
+
+/* h2 */
+
+font-family: 'Nerko One';
+font-size: 48px;
+line-height: 46px;
+/* identical to box height, or 128% */
+
+text-transform: capitalize;
+
+color: #181414;
+}
+
+.p1 {
+    position: absolute;
+width: 672px;
+height: 248px;
+left: 123px;
+top: 1275px;
+
+/* body 2 */
+
+font-family: 'Roboto Mono';
+font-size: 20px;
+line-height: 35px;
+/* or 194% */
+
+color: #181414;
+}
+
+.foto1 {
+    position: absolute;
+    left: 1310px;
+    right: 6.73%;
+    top: 1100px;
+    bottom: 56.38%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.foto2 {
+    position: absolute;
+left: 1011px;
+right: 428px;
+top: 1100px;
+bottom: 56.38%;
+
+background: url(.jpg), #C7B3B3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.foto3 {
+    position: absolute;
+left: 1156px;
+right: 253px;
+top: 1040px;
+bottom: 54.85%;
+background: url(.jpg), #D9D9D9;
+box-shadow: 15px 16px 24px rgba(0, 0, 0, 0.15);
+}
+
+.figma {
+    position: absolute;
+width: 197.23px;
+height: 100px;
+left: 407px;
+top: 1748px;
+}
+
+.html {
+    position: absolute;
+width: 203.08px;
+height: 100px;
+left: 721.17px;
+top: 1748px;
+
+}
+
+.css {
+    position: absolute;
+width: 187.5px;
+height: 100px;
+left: 1037.5px;
+top: 1748px;
+
+}
+
+.java {
+    position: absolute;
+width: 242.58px;
+height: 100px;
+left: 1322.42px;
+top: 1748px;
+
+}
+
+.proekti {
+    position: absolute;
+width: 254px;
+height: 46px;
+left: 833px;
+top: 1938px;
+
+/* h1 */
+
+font-family: 'Nerko One';
+font-size: 65px;
+line-height: 46px;
+/* identical to box height, or 77% */
+
+text-align: center;
+text-transform: capitalize;
+
+color: #181414;
+}
+
+.proektintro {
+    position: absolute;
+width: 1195px;
+height: 81px;
+left: 362px;
+top: 2070px;
+
+/* sub1 */
+
+font-family: 'Roboto Mono';
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+text-align: center;
+text-transform: capitalize;
+
+color: #181414;
+}
+
+.btn-group button {
+    background-color: #555555; /* Green background */
+    border: 1px solid #555; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    font-size: 28px;
+    position:relative;
+
+    left: 650px;
+    top: 2177px;
+
+  }
+  .all {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    left: 670px;
+  }
+  .ghost {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    left: 670px;
+  }
+  
+  
+  .btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: #0087FF;
+  }
+
+.proektic {
+    position: absolute;
+    width: 530px;
+    height: 524px;
+    left: 120px;
+    top: 2326px;
+    
+}
+
+.proektic1 {
+    position: absolute;
+    width: 530px;
+    height: 524px;
+    left: 695px;
+    top: 2326px;
+    
+}
+
+.proektic2 {
+    position: absolute;
+    width: 530px;
+    height: 524px;
+    left: 1270px;
+    top: 2326px;
+    
+}
+
+
+
+.proektic3 {
+    position: absolute;
+    width: 530px;
+    height: 524px;
+    left: 120px;
+    top: 2896px;
+    
+}
+
+.proektic4 {
+    position: absolute;
+    width: 530px;
+    height: 524px;
+    left: 695px;
+    top: 2896px;
+    
+}
+
+.projectall {
+    background-color: #222222; 
+    border: none;
+    width: 242px;
+    height: 80px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    position: absolute;
+    left: 839px;
+    top: 3450px;
+    border-radius: 20px;
+  }
+
+  .projectall:hover {
+    background-color: #0087FF;
+  }
+
+  .contactme {
+    background-color: #222222; 
+    border: none;
+    width: 241px;
+    height: 42px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 5px;
+    display: inline-block;
+    font-size: 24px;
+    position: absolute;
+    left: 840px;
+    top: 3600px;
+    border-radius: 10px;
+  }
+
+  .contactme:hover {
+    background-color: #0087FF;
+  }
+
+  .credit {
+position: absolute;
+top: 3700px;
+text-align: center;
+margin: auto;
+width: 300px;
+height: 200px;
+padding: 10px;
+left: 800px;
+
+/* body 2 */
+
+font-family: 'Roboto Mono';
+font-size: 18px;
+line-height: 35px;
+/* or 194% */
+
+color: #181414;
+}
